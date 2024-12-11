@@ -109,3 +109,20 @@ The system's effectiveness is measured through:
     * System provides preliminary suggestions only
     * Not a replacement for professional medical diagnosis
     * Should be used as a initial reference tool
+
+  ## Running The Project
+
+  1. Clone the repository
+```
+git clone https://github.com/yourusername/medical-expert-system.git
+```
+  2. Install dependencies
+```
+cd medical-expert-system
+npm install
+```
+  3. Start the development server
+```
+npm start
+```
+Visit `http://localhost:3000` to use the system.
