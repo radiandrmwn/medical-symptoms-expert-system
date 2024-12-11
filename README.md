@@ -87,4 +87,25 @@ The system employs a rule-based inference engine with the following logic:
 ## 4. Evaluation
 The system's effectiveness is measured through:
 
+  ### Accuracy Metrics
 
+  * Symptom matching accuracy
+  * Condition identification precision
+  * Recommendation relevance
+
+  ### System Performance
+
+  * Quick response time for diagnosis
+  * Intuitive user interface
+  * Clear presentation of results
+
+  ### Limitations
+
+  1. Scope
+    * Limited to common conditions
+    * Basic symptom matching
+    * No consideration of symptom severity
+  2. Medical Disclaimer
+    * System provides preliminary suggestions only
+    * Not a replacement for professional medical diagnosis
+    * Should be used as a initial reference tool
