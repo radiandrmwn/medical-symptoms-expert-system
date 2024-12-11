@@ -65,4 +65,26 @@ The system employs a rule-based inference engine with the following logic:
 * Multiple symptoms can be selected to improve accuracy
 
   ### 2. Matching Algorithm
-  
+  ```
+  const matchingSymptoms = condition.symptoms.filter(symptom => 
+  selectedSymptoms.includes(symptom)
+  );
+
+  const matchPercentage = (matchingSymptoms.length / condition.symptoms.length) * 100;
+  ```
+
+  ### 3. Confidence Calculation
+
+  * Calculates match percentage based on number of matching symptoms
+  * Considers the ratio of matched symptoms to total condition symptoms
+  * Conditions with >50% match are included in results
+ 
+  ### 4. Result Ranking
+
+  * Results are sorted by confidence percentage
+  * Higher matches appear first in recommendations
+ 
+## 4. Evaluation
+The system's effectiveness is measured through:
+
+
