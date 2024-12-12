@@ -56,7 +56,7 @@ conditions = {
 * Flexible matching algorithms
 
 ## 3. Reasoning
-The system employs a rule-based inference engine with the following logic:
+The system employs a rule-based inference engine. The inference process in a rule-based inference engine involves applying rules to facts to derive conclusions or make decisions. we apply it with the following logics:
 
   ### 1. Symptom Collection
 
