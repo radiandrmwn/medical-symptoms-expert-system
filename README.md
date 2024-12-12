@@ -27,6 +27,8 @@ The system currently includes knowledge about several common conditions includin
 - Common symptom-condition relationships
 - Basic medical recommendations for common conditions
 
+![image](https://github.com/user-attachments/assets/7f9ef0eb-983d-4a1a-a035-e9f37b749915)
+
 ## 2. Knowledge Representation
 
 The system represents medical knowledge through:
