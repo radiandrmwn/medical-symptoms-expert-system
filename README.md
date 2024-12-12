@@ -119,7 +119,7 @@ The system's effectiveness is measured through:
 
   1. Clone the repository
 ```
-git clone https://github.com/yourusername/medical-expert-system.git
+git clone https://github.com/radiandrmwn/medical-symptoms-expert-system.git
 ```
 
   2. Install dependencies
