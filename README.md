@@ -110,6 +110,8 @@ The system employs a rule-based inference engine. The inference process in a rul
 
   * Results are sorted by confidence percentage
   * Higher matches appear first in recommendations
+
+ ![image](https://github.com/user-attachments/assets/7f9ef0eb-983d-4a1a-a035-e9f37b749915)
  
 ## 4. Evaluation
 The system's effectiveness is measured through:
@@ -125,8 +127,6 @@ The system's effectiveness is measured through:
   * Quick response time for diagnosis
   * Intuitive user interface
   * Clear presentation of results
-
-![image](https://github.com/user-attachments/assets/7f9ef0eb-983d-4a1a-a035-e9f37b749915)
 
   ### Limitations
 
