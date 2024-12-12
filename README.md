@@ -61,6 +61,28 @@ conditions = {
 * Easy addition of new conditions and symptoms
 * Flexible matching algorithms
 
+### 1. Disease Categories/Clusters:
+
+* Respiratory Conditions (Common Cold, Flu, Pneumonia, Bronchitis, COVID-19)
+* Digestive/Gastrointestinal (Gastritis, Food Poisoning, Stomach Virus)
+* Neurological (Migraine, Vertigo)
+* Allergic/Immunological (Seasonal Allergies, Allergic Reaction)
+* Musculoskeletal (Rheumatoid Arthritis)
+* Head/ENT Related (Sinus Infection)
+
+
+### 2. Symptom Clusters:
+
+* Respiratory Symptoms (cough, shortness_breath, congestion)
+* Pain Symptoms (headache, chest_pain, joint_pain, stomach_pain)
+* Fever Symptoms (mild_fever, high_fever)
+* Digestive Symptoms (nausea, vomiting, diarrhea)
+* Sensory Symptoms (light_sensitivity, sound_sensitivity, dizziness)
+* General Symptoms (fatigue, muscle_weakness, body_aches)
+
+In total we have :
+* 6 major disease clusters
+* 6 major symptom clusters
 ## 3. Reasoning
 The system employs a rule-based inference engine. The inference process in a rule-based inference engine involves applying rules to facts to derive conclusions or make decisions. we apply it with the following logics:
 
