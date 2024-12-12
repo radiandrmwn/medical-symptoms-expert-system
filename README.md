@@ -6,7 +6,7 @@
 | Radian Try Darmawan | 5025221097 | RSBP (IUP) |
 | Ihsan Adhika Rahadian| 5025221080 | RSBP (IUP) |
 
-A web-based expert system for preliminary medical diagnosis based on user symptoms. This system uses a rule-based approach to suggest possible medical conditions based on reported symptoms.
+A web-based expert system for preliminary medical diagnosis based on user symptoms. This system uses a rule-based approach with it also being the classifier to suggest possible medical conditions based on reported symptoms.
 
 ## 1. Knowledge Acquisition
 
