@@ -2,7 +2,7 @@
 
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| x| x | RSBP (IUP) |
+| Samuel Josefano Kaloh| 5025221065| RSBP (IUP) |
 | Radian Try Darmawan | 5025221097 | RSBP (IUP) |
 | Ihsan Adhika Rahadian| 5025221080 | RSBP (IUP) |
 
