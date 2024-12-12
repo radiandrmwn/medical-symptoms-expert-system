@@ -49,7 +49,6 @@ conditions = {
   // ... more conditions
 }
 ```
-This structure allows for:
 
 * Clear mapping between symptoms and conditions
 * Storage of condition-specific information
