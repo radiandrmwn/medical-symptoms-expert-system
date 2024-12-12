@@ -115,13 +115,16 @@ The system's effectiveness is measured through:
 ```
 git clone https://github.com/yourusername/medical-expert-system.git
 ```
+
   2. Install dependencies
 ```
 cd medical-expert-system
 npm install
 ```
+
   3. Start the development server
 ```
 npm start
 ```
+
 Visit `http://localhost:3000` to use the system.
